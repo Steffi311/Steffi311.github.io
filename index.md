@@ -10,3 +10,5 @@ Harry Potter, der an seinem elften Geburtstag von seiner magischen Herkunft erfÃ
 * nett
 
 > Es verlangt sehr viel Tapferkeit, sich seinen Feinden in den Weg zu stellen, aber wesentlich mehr noch, sich seinen Freunden in den Weg zu stellen.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/1920px-Harry_Potter_wordmark.svg.png" alt="Harry Potter Logo">
