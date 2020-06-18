@@ -8,3 +8,5 @@ Harry Potter, der an seinem elften Geburtstag von seiner magischen Herkunft erfÃ
 * Hilfsbereit
 * Zaubert gerne
 * nett
+
+> Es verlangt sehr viel Tapferkeit, sich seinen Feinden in den Weg zu stellen, aber wesentlich mehr noch, sich seinen Freunden in den Weg zu stellen.
